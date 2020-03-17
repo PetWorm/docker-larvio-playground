@@ -14,4 +14,4 @@ Download [LARVIO](https://github.com/PetWorm/LARVIO) and [EuRoC dataset](https:/
 
 Load LARVIO and dataset when running container. An example is given in `run.sh`.
 
-Open VNC Viewer and visit `127.0.0.1:5900` to monitor the desktop.
+Open [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) and visit `127.0.0.1:5900` to monitor the desktop.
